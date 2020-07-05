@@ -1,0 +1,13 @@
+C:\Users\casbo\Documents\School\CompInt\CompInt2\bin\Debug\netcoreapp3.1\CompInt2.exe
+C:\Users\casbo\Documents\School\CompInt\CompInt2\bin\Debug\netcoreapp3.1\CompInt2.deps.json
+C:\Users\casbo\Documents\School\CompInt\CompInt2\bin\Debug\netcoreapp3.1\CompInt2.runtimeconfig.json
+C:\Users\casbo\Documents\School\CompInt\CompInt2\bin\Debug\netcoreapp3.1\CompInt2.runtimeconfig.dev.json
+C:\Users\casbo\Documents\School\CompInt\CompInt2\bin\Debug\netcoreapp3.1\CompInt2.dll
+C:\Users\casbo\Documents\School\CompInt\CompInt2\bin\Debug\netcoreapp3.1\CompInt2.pdb
+C:\Users\casbo\Documents\School\CompInt\CompInt2\obj\Debug\netcoreapp3.1\CompInt2.csprojAssemblyReference.cache
+C:\Users\casbo\Documents\School\CompInt\CompInt2\obj\Debug\netcoreapp3.1\CompInt2.AssemblyInfoInputs.cache
+C:\Users\casbo\Documents\School\CompInt\CompInt2\obj\Debug\netcoreapp3.1\CompInt2.AssemblyInfo.cs
+C:\Users\casbo\Documents\School\CompInt\CompInt2\obj\Debug\netcoreapp3.1\CompInt2.csproj.CoreCompileInputs.cache
+C:\Users\casbo\Documents\School\CompInt\CompInt2\obj\Debug\netcoreapp3.1\CompInt2.dll
+C:\Users\casbo\Documents\School\CompInt\CompInt2\obj\Debug\netcoreapp3.1\CompInt2.pdb
+C:\Users\casbo\Documents\School\CompInt\CompInt2\obj\Debug\netcoreapp3.1\CompInt2.genruntimeconfig.cache
